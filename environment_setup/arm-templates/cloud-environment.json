@@ -14,6 +14,8 @@
       "type": "string",
       "defaultValue": "eastus",
       "allowedValues": [
+        "japaneast",
+        "japanwest",
         "eastus",
         "eastus2",
         "southcentralus",
